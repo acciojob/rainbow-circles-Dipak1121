@@ -18,6 +18,7 @@
 	background-color: #008000;
 	border-radius: 50%;
 	border: 25px solid #ffff00;
+	margin: 25px;
 }
 #inner{
 	width: 100px;
@@ -25,4 +26,5 @@
 	background-color: #800080;
 	border-radius: 50%;
 	border: 25px solid #0000ff;
+	margin: 25px;
 }
